@@ -1,0 +1,152 @@
+header {
+	height : 460px; 
+	background-image : url("images/payments-banner-graphic.png");
+	background-size : cover; 
+}
+
+#bonsai {
+	color : white;
+	float : left;  
+	padding-top : 5px; 
+}
+
+h1 {
+	color : white;
+	text-align : center; 
+}
+
+h3 {
+	color : white;
+	text-align : center; 
+}
+
+a {
+	color : white;
+	text-decoration : none; 
+	float : right;  
+}
+
+#signup {
+	margin : 10px;
+}
+
+#login {
+	margin : 10px;
+}
+
+#logo {
+	 height : 50px; 
+	 width : 50px;
+	 float : left;
+	 margin : 5px;  
+}
+
+.titres {
+	padding-top : 140px; 
+}
+
+.creationcompte {
+	background-color : white; 
+	margin-left: 642px;
+	width : 240px;  
+	height : 40px; 
+	border-radius : 5px; 
+	color : #7986cb; 
+}
+
+.icons {
+	display : inline-block;
+	width : 490px;  
+}
+
+.police {
+	font-size : 22px; 
+}
+
+p {
+	color : #9e9e9e; 
+	text-align : center; 
+}
+
+#mail {
+	padding-left : 175px; 
+	padding-top : 60px; 
+}
+
+#method {
+	padding-left : 175px;
+	padding-top : 60px; 
+}
+
+#calendrier {
+	padding-left : 175px;
+	padding-top : 60px; 	
+}
+
+.prix {
+	border : solid;
+	border-color : #eeeeee; 
+	background-color : #eeeeee; 
+}
+
+#dollar {
+	color :  #7986cb;
+	font-size : 70px;   
+}
+
+.text {
+	font-size : 20px; 
+}
+
+.creditcard {
+	background-color : #424242;
+	height : 85px;
+	padding : 20px; 
+}
+
+.creditcard p {
+	color : white;
+	font-size : 30px; 
+}
+
+.colonnes {
+	display: inline-block;
+}
+
+.colonnes p {
+	width: 49%
+}
+
+#img1 {
+	padding-left : 65px;
+	padding-top : 65px;
+	padding-right : 65px;
+	background-color : #26c6da; 
+}
+
+#img2 {
+	padding-left : 65px;
+	padding-top : 65px;
+	padding-right : 65px;
+	background-color : #7e57c2; 
+}
+
+#img3 {
+	padding-left : 65px;
+	padding-top : 65px;
+	padding-right : 65px;
+	background-color : #26c6da; 
+}
+
+.compte {
+	background-color : #00897b; 
+	margin-left: 642px;
+	width : 240px;  
+	height : 40px; 
+	border-radius : 5px; 
+	color : white; 
+}
+
+.text2 {
+	font-size : 25px; 
+}
